@@ -1,0 +1,42 @@
+C:\Users\w69845\Desktop\LAB1\bin\Debug\net8.0\LAB1.exe
+C:\Users\w69845\Desktop\LAB1\bin\Debug\net8.0\LAB1.deps.json
+C:\Users\w69845\Desktop\LAB1\bin\Debug\net8.0\LAB1.runtimeconfig.json
+C:\Users\w69845\Desktop\LAB1\bin\Debug\net8.0\LAB1.dll
+C:\Users\w69845\Desktop\LAB1\bin\Debug\net8.0\LAB1.pdb
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfoInputs.cache
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfo.cs
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\LAB1.dll
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\refint\LAB1.dll
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\LAB1.pdb
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\LAB1.genruntimeconfig.cache
+C:\Users\w69845\Desktop\LAB1\obj\Debug\net8.0\ref\LAB1.dll
+C:\Users\Karol\Desktop\LAB1\bin\Debug\net8.0\LAB1.exe
+C:\Users\Karol\Desktop\LAB1\bin\Debug\net8.0\LAB1.deps.json
+C:\Users\Karol\Desktop\LAB1\bin\Debug\net8.0\LAB1.runtimeconfig.json
+C:\Users\Karol\Desktop\LAB1\bin\Debug\net8.0\LAB1.dll
+C:\Users\Karol\Desktop\LAB1\bin\Debug\net8.0\LAB1.pdb
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfoInputs.cache
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfo.cs
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\LAB1.dll
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\refint\LAB1.dll
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\LAB1.pdb
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\LAB1.genruntimeconfig.cache
+C:\Users\Karol\Desktop\LAB1\obj\Debug\net8.0\ref\LAB1.dll
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\LAB1.AssemblyInfoInputs.cache
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\LAB1.AssemblyInfo.cs
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\LAB1.dll
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\refint\LAB1.dll
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\LAB1.pdb
+C:\Users\0000\Desktop\LAB1.1 c#\bin\Debug\net8.0\LAB1.exe
+C:\Users\0000\Desktop\LAB1.1 c#\bin\Debug\net8.0\LAB1.deps.json
+C:\Users\0000\Desktop\LAB1.1 c#\bin\Debug\net8.0\LAB1.runtimeconfig.json
+C:\Users\0000\Desktop\LAB1.1 c#\bin\Debug\net8.0\LAB1.dll
+C:\Users\0000\Desktop\LAB1.1 c#\bin\Debug\net8.0\LAB1.pdb
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\LAB1.genruntimeconfig.cache
+C:\Users\0000\Desktop\LAB1.1 c#\obj\Debug\net8.0\ref\LAB1.dll
