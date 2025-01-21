@@ -30,7 +30,6 @@ namespace LAB3
 
         public Person(string firstName, string lastName, int wiek)
         {
-            // Słowo kluczowe this. aby rozróżnić parametry od pól
             this.firstName = firstName;
             this.lastName  = lastName;
             this.wiek      = wiek;
