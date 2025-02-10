@@ -1,0 +1,17 @@
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\bin\Debug\net8.0\LAB6 Karol Sawicki w69845.exe
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\bin\Debug\net8.0\LAB6 Karol Sawicki w69845.deps.json
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\bin\Debug\net8.0\LAB6 Karol Sawicki w69845.runtimeconfig.json
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\bin\Debug\net8.0\LAB6 Karol Sawicki w69845.dll
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\bin\Debug\net8.0\LAB6 Karol Sawicki w69845.pdb
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.csproj.AssemblyReference.cache
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.AssemblyInfoInputs.cache
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.AssemblyInfo.cs
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.csproj.CoreCompileInputs.cache
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Kar.3EC60696.Up2Date
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.dll
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\refint\LAB6 Karol Sawicki w69845.dll
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.pdb
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\LAB6 Karol Sawicki w69845.genruntimeconfig.cache
+C:\Users\0000\Desktop\Zadania lab c#\LAB6 Karol Sawicki w69845\obj\Debug\net8.0\ref\LAB6 Karol Sawicki w69845.dll
