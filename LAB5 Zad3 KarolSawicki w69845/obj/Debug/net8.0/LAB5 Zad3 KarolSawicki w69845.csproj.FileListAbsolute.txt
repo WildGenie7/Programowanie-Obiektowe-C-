@@ -1,0 +1,14 @@
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\bin\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.exe
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\bin\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.deps.json
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\bin\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.runtimeconfig.json
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\bin\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.dll
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\bin\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.pdb
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.AssemblyInfoInputs.cache
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.AssemblyInfo.cs
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.csproj.CoreCompileInputs.cache
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.dll
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\refint\LAB5 Zad3 KarolSawicki w69845.dll
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.pdb
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\LAB5 Zad3 KarolSawicki w69845.genruntimeconfig.cache
+C:\Users\0000\Desktop\Zadania lab c#\LAB5 Zad3 KarolSawicki w69845\obj\Debug\net8.0\ref\LAB5 Zad3 KarolSawicki w69845.dll
